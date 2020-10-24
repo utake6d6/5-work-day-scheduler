@@ -30,4 +30,4 @@ Create a simple calendar application that allows a user to save events for each 
 
 **Website URL:** \$\$\$\$
 
-**Screenshot:** ![picture]()
+**Screenshot:** ![picture](https://github.com/utake6d6/5-work-day-scheduler/blob/master/Develop/planner_pic.png)
