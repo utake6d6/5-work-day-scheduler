@@ -26,7 +26,7 @@ Create a simple calendar application that allows a user to save events for each 
 **WHEN** I refresh the page\
 **THEN** the saved events persist
 
-**Repository URL:** \$\$\$\$
+**Repository URL:** https://github.com/utake6d6/5-work-day-scheduler
 
 **Website URL:** \$\$\$\$
 
