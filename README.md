@@ -28,6 +28,6 @@ Create a simple calendar application that allows a user to save events for each 
 
 **Repository URL:** https://github.com/utake6d6/5-work-day-scheduler
 
-**Website URL:** \$\$\$\$
+**Website URL:** https://utake6d6.github.io/5-work-day-scheduler/
 
 **Screenshot:** ![picture](https://github.com/utake6d6/5-work-day-scheduler/blob/master/Develop/planner_pic.png)
